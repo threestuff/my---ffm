@@ -23,7 +23,7 @@ email: hello@my---ffm.co.uk
 description: >-
   This website was made with the use of LLM's.
 baseurl: "my---ffm" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://my---ffm.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: threestuff
 
 # Build settings
