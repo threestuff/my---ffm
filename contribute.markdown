@@ -9,7 +9,7 @@ nav_exclude: true
 
 If you have questions or need help, feel free to open an issue or join the discussion.
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
+<form action="https://www.paypal.com/donate/?hosted_button_id=4KCN88C6HN2JY" method="post" target="_top">
  <!-- Identify your business so that you can collect the payments. -->
  <input type="hidden" name="business" value="donations@kcparkfriends.org">
  <!-- Specify details about the contribution -->
